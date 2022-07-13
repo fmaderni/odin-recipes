@@ -1,0 +1,1 @@
+Este proyecto se realiza con la intencion de demostrar las herramientas adquiridas durante la etapa HTML del curso Odin Project. 
